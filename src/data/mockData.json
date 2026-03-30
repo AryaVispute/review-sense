@@ -1,0 +1,255 @@
+{
+  "stats": {
+    "avgRating": 4.8,
+    "totalReviews": 1284,
+    "sentimentScore": 92,
+    "pendingIssues": 14,
+    "trends": {
+      "rating": "+0.2",
+      "reviews": "+12.5%",
+      "sentiment": "+4.1%",
+      "issues": "-2"
+    }
+  },
+  "sentimentDistribution": {
+    "positive": 842,
+    "neutral": 256,
+    "negative": 186
+  },
+  "sentimentPerPlatform": [
+    { "platform": "Amazon", "positive": 450, "neutral": 120, "negative": 80 },
+    { "platform": "Shopify", "positive": 280, "neutral": 80, "negative": 40 },
+    { "platform": "Flipkart", "positive": 112, "neutral": 56, "negative": 66 }
+  ],
+  "sentimentTimeline": [
+    { "date": "Jan", "positive": 720, "neutral": 210, "negative": 150 },
+    { "date": "Feb", "positive": 780, "neutral": 230, "negative": 170 },
+    { "date": "Mar", "positive": 842, "neutral": 256, "negative": 186 }
+  ],
+  "reviews": [
+    {
+      "id": "rev_001",
+      "productName": "UltraPro Wireless Headphones",
+      "rating": 5,
+      "sentiment": "Positive",
+      "date": "2026-03-29",
+      "platform": "Amazon US",
+      "userName": "Alex Johnson",
+      "content": "The noise cancellation is actually better than my Sony ones. Battery life lasts for days. Highly recommended!"
+    },
+    {
+      "id": "rev_002",
+      "productName": "EcoFlow Smart Bottle",
+      "rating": 2,
+      "sentiment": "Negative",
+      "date": "2026-03-28",
+      "platform": "Shopify",
+      "userName": "Sarah Miller",
+      "content": "The app integration is super buggy. It keeps disconnecting and doesn't track my water intake accurately."
+    },
+    {
+      "id": "rev_003",
+      "productName": "NanoTech Gaming Mouse",
+      "rating": 4,
+      "sentiment": "Neutral",
+      "date": "2026-03-27",
+      "platform": "Flipkart",
+      "userName": "David Chen",
+      "content": "Good mouse, but the software is a bit bloated. Hardware-wise it's perfect."
+    },
+    {
+      "id": "rev_004",
+      "productName": "ZenPad Tablet 10",
+      "rating": 5,
+      "sentiment": "Positive",
+      "date": "2026-03-26",
+      "platform": "Amazon US",
+      "userName": "Emily White",
+      "content": "Stunning display! Perfect for artists. The pencil response time is negligible."
+    },
+    {
+      "id": "rev_005",
+      "productName": "SolarCharge PowerBank",
+      "rating": 1,
+      "sentiment": "Negative",
+      "date": "2026-03-25",
+      "platform": "Amazon UK",
+      "userName": "Michael Brown",
+      "content": "The solar panel doesn't work at all. Left it in the sun for 10 hours and it didn't charge even 1 percent."
+    },
+    {
+      "id": "rev_006",
+      "productName": "PureAir Purifier",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "date": "2026-03-24",
+      "platform": "Flipkart",
+      "userName": "Jessica Green",
+      "content": "It's a bit loud on high settings. Works well otherwise but expected more filter options."
+    },
+    {
+      "id": "rev_007",
+      "productName": "GripMaster Yoga Mat",
+      "rating": 5,
+      "sentiment": "Positive",
+      "date": "2026-03-23",
+      "platform": "Direct Store",
+      "userName": "Chris Martin",
+      "content": "Finally a mat that doesn't slip! Excellent grip even during hot yoga sessions."
+    },
+    {
+      "id": "rev_008",
+      "productName": "Velociti SSD 1TB",
+      "rating": 4,
+      "sentiment": "Positive",
+      "date": "2026-03-22",
+      "platform": "Best Buy",
+      "userName": "Anna Scott",
+      "content": "Blazing fast speeds. My boot time went from 30 seconds to barely 5. Installation was easy too."
+    },
+    {
+      "id": "rev_009",
+      "productName": "DuraCase iPhone 15",
+      "rating": 2,
+      "sentiment": "Negative",
+      "date": "2026-03-21",
+      "platform": "Amazon US",
+      "userName": "Kevin Lee",
+      "content": "The case is way too bulky. It makes the phone feel like a brick. Dropped it once and the edge chipped."
+    },
+    {
+      "id": "rev_010",
+      "productName": "SmartLock Elite",
+      "rating": 5,
+      "sentiment": "Positive",
+      "date": "2026-03-20",
+      "platform": "Shopify",
+      "userName": "Maria Garcia",
+      "content": "The fingerprint reader is instant. Love the auto-lock feature and the slick design."
+    },
+    {
+      "id": "rev_011",
+      "productName": "KitchenScale Pro",
+      "rating": 4,
+      "sentiment": "Neutral",
+      "date": "2026-03-19",
+      "platform": "Amazon US",
+      "userName": "Julia Kim",
+      "content": "Very accurate, but the display is hard to read when a large bowl is placed on it."
+    },
+    {
+      "id": "rev_012",
+      "productName": "ErgoChair V2",
+      "rating": 1,
+      "sentiment": "Negative",
+      "date": "2026-03-18",
+      "platform": "Direct Store",
+      "userName": "Ryan Wilson",
+      "content": "Arrived with a broken lumbar support. Customer service hasn't replied to my emails for 4 days."
+    },
+    {
+      "id": "rev_013",
+      "productName": "Nebula Projector",
+      "rating": 5,
+      "sentiment": "Positive",
+      "date": "2026-03-17",
+      "platform": "Amazon US",
+      "userName": "Sophie Turner",
+      "content": "Best purchase of the year! Movies look like they're in a real cinema. Sound is surprisingly loud."
+    },
+    {
+      "id": "rev_014",
+      "productName": "CookMate AirFryer",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "date": "2026-03-16",
+      "platform": "Flipkart",
+      "userName": "Daniel Evans",
+      "content": "The basket is smaller than advertised. Hard to cook for a family of 4, but food tastes great."
+    },
+    {
+      "id": "rev_015",
+      "productName": "SwiftTab Pro",
+      "rating": 5,
+      "sentiment": "Positive",
+      "date": "2026-03-15",
+      "platform": "Best Buy",
+      "userName": "Rachel Green",
+      "content": "Light, fast, and the battery lasts forever. Ideal for students."
+    }
+  ],
+  "issues": [
+    {
+      "id": "iss_101",
+      "type": "Product Defect",
+      "count": 42,
+      "trend": "+8%",
+      "severity": "High",
+      "description": "Loose plastic bits and non-functional solar panels reported by customers.",
+      "keywords": ["broken", "not working", "defective", "plastic"]
+    },
+    {
+      "id": "iss_102",
+      "type": "Late Delivery",
+      "count": 35,
+      "trend": "-2%",
+      "severity": "Medium",
+      "description": "Shipping delays mostly affecting Amazon UK and Flipkart orders.",
+      "keywords": ["delay", "waiting", "shipping", "late"]
+    },
+    {
+      "id": "iss_103",
+      "type": "App Bug",
+      "count": 28,
+      "trend": "+15%",
+      "severity": "High",
+      "description": "New app update (v2.1) causing sync issues with Smart Bottle and Locks.",
+      "keywords": ["bug", "disconnect", "sync", "app"]
+    },
+    {
+      "id": "iss_104",
+      "type": "Packaging",
+      "count": 12,
+      "trend": "+0%",
+      "severity": "Low",
+      "description": "Minor complaints about excessive plastic usage in shipping.",
+      "keywords": ["plastic", "box", "packaging", "oversized"]
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alt_201",
+      "title": "Spike in negative sentiment",
+      "severity": "High",
+      "time": "24m ago",
+      "description": "A 40% increase in negative reviews detected for UltraPro Headphones on Amazon US.",
+      "source": "Amazon US"
+    },
+    {
+      "id": "alt_202",
+      "title": "Product Rating Drop",
+      "severity": "Medium",
+      "time": "2h ago",
+      "description": "Nebula Projector rating dropped from 4.9 to 4.5 following 5 new negative reviews.",
+      "source": "Best Buy"
+    },
+    {
+      "id": "alt_203",
+      "title": "Shipping Alert",
+      "severity": "Low",
+      "time": "5h ago",
+      "description": "Minor delivery delays reported for EU region due to weather conditions.",
+      "source": "Direct Store"
+    }
+  ],
+  "topProducts": [
+    { "name": "UltraPro Headphones", "rating": 4.9, "sentiment": 98, "reviews": 450 },
+    { "name": "Nebula Projector", "rating": 4.8, "sentiment": 95, "reviews": 320 },
+    { "name": "GripMaster Mat", "rating": 4.7, "sentiment": 92, "reviews": 180 }
+  ],
+  "bottomProducts": [
+    { "name": "SolarCharge PowerBank", "rating": 2.1, "sentiment": 15, "reviews": 120 },
+    { "name": "EcoFlow Smart Bottle", "rating": 2.8, "sentiment": 32, "reviews": 95 },
+    { "name": "DuraCase iPhone 15", "rating": 3.1, "sentiment": 45, "reviews": 56 }
+  ]
+}
